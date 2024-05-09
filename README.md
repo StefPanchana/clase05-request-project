@@ -1,7 +1,7 @@
 ## En caso de usar un ambiente virtual
 No olvidar instalar las siguientes librerias de python:
-# requests
-# pandas
+pip install requests
+pip install pandas
 
 ## Samples del Resultado en la Ejecución del Presente archivo ejercicio.py
 
